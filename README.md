@@ -1,6 +1,6 @@
 # DeepSeek-ext README
 
-This is the README for your extension "DeepSeek-ext". After writing up a brief description, we recommend including the following sections.
+A VSCode extension that allows you to chat with DeepSeek-R1:14b 
 
 ## Features
 
